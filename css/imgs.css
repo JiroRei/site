@@ -1,5 +1,5 @@
 body {
-  min-height: 100dvh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   font-family: "Satoshi", sans-serif;
@@ -7,6 +7,11 @@ body {
   font-weight: 500;
   color: #ffffe6;
   background: url("imgs/cheese.jpg");
+}
+.message{
+  font-size: large;
+  color: black;
+  text-align: center;
 }
 .carousel-container {
   width: 90%;
